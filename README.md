@@ -1,2 +1,1 @@
-# linux_command
-Frequently used Linux commands
+# linux-command
